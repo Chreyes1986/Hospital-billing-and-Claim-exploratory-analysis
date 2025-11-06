@@ -1,0 +1,1001 @@
+BillingID,PatientID,Department,Procedure,BillingAmount,Cost,BillingDate,InsuranceProvider
+1,1102,Oncology,Chemotherapy,9353,9649,2023-03-14,BlueCross
+2,1435,Oncology,MRI Scan,12195,12026,2024-06-15,BlueCross
+3,1860,Radiology,MRI Scan,3352,10233,2023-10-29,Cigna
+4,1270,Cardiology,Consultation,16514,2509,2023-10-25,Aetna
+5,1106,Emergency,X-Ray,1487,14338,2024-08-25,UnitedHealth
+6,1071,Cardiology,X-Ray,8122,6468,2023-12-26,UnitedHealth
+7,1700,Orthopedics,Blood Test,9660,1110,2024-01-20,Aetna
+8,1020,Radiology,CT Scan,17984,4540,2023-03-14,BlueCross
+9,1614,Cardiology,Surgery,7152,13029,2023-12-21,Cigna
+10,1121,Pediatrics,Surgery,7921,4209,2023-08-01,Cigna
+11,1466,Oncology,Surgery,1269,6828,2024-06-11,UnitedHealth
+12,1214,Orthopedics,Blood Test,18227,2369,2024-01-30,Cigna
+13,1330,Radiology,X-Ray,14614,2372,2023-07-18,Medicaid
+14,1458,Cardiology,Physical Therapy,4858,5868,2024-04-07,Aetna
+15,1087,Emergency,Chemotherapy,12043,6513,2023-05-06,BlueCross
+16,1372,Pediatrics,Consultation,19233,8515,2023-10-23,Medicaid
+17,1099,Pediatrics,Chemotherapy,6199,8236,2024-09-21,Aetna
+18,1871,Cardiology,Physical Therapy,18125,11550,2023-11-08,Medicare
+19,1663,Oncology,Consultation,1625,6989,2023-08-04,UnitedHealth
+20,1130,Cardiology,Blood Test,11293,14219,2023-01-30,Cigna
+21,1661,Orthopedics,Physical Therapy,7264,985,2024-03-30,Medicare
+22,1308,Cardiology,Surgery,12823,6339,2024-02-06,Cigna
+23,1769,Pediatrics,CT Scan,13531,6544,2024-02-08,Medicaid
+24,1343,Radiology,MRI Scan,14552,2616,2024-05-04,BlueCross
+25,1491,Cardiology,Chemotherapy,13140,9188,2024-08-15,BlueCross
+26,1413,Oncology,X-Ray,8343,12564,2023-06-03,BlueCross
+27,1805,Radiology,X-Ray,14710,4354,2023-01-19,Cigna
+28,1385,Emergency,Blood Test,16956,14966,2023-03-24,Medicare
+29,1191,Neurology,Consultation,10606,5819,2024-02-02,BlueCross
+30,1955,Cardiology,X-Ray,5689,2136,2024-08-17,Medicare
+31,1276,Oncology,Surgery,2972,10548,2023-01-18,Cigna
+32,1160,Radiology,Chemotherapy,17591,4007,2023-02-04,Medicaid
+33,1459,Oncology,Physical Therapy,18688,7351,2023-01-11,Medicare
+34,1313,Emergency,Surgery,7204,9693,2023-05-14,Medicaid
+35,1021,Pediatrics,Blood Test,4213,12555,2024-02-26,Cigna
+36,1252,Oncology,Surgery,5551,11532,2023-10-31,Cigna
+37,1747,Radiology,Physical Therapy,11256,3436,2023-10-25,UnitedHealth
+38,1856,Oncology,CT Scan,2975,2552,2023-10-09,Cigna
+39,1560,Oncology,Blood Test,4110,2132,2023-08-13,Cigna
+40,1474,Oncology,CT Scan,4755,11113,2023-12-19,Aetna
+41,1058,Orthopedics,MRI Scan,14984,8756,2024-05-16,BlueCross
+42,1510,Orthopedics,CT Scan,2235,5116,2024-02-25,UnitedHealth
+43,1681,Pediatrics,MRI Scan,8758,5698,2023-02-05,UnitedHealth
+44,1475,Cardiology,MRI Scan,8479,10782,2023-09-21,UnitedHealth
+45,1699,Oncology,CT Scan,2928,1146,2023-03-13,Aetna
+46,1975,Emergency,Blood Test,12845,14065,2024-02-22,Medicaid
+47,1782,Cardiology,Consultation,7926,9769,2024-08-23,Cigna
+48,1189,Emergency,Physical Therapy,9033,1639,2023-04-20,BlueCross
+49,1957,Cardiology,Surgery,5749,11572,2023-08-20,Medicare
+50,1686,Pediatrics,Surgery,19701,7930,2023-01-08,Medicaid
+51,1957,Oncology,Physical Therapy,10186,5057,2023-04-05,Cigna
+52,1562,Oncology,Chemotherapy,14609,540,2023-09-22,Aetna
+53,1875,Neurology,Chemotherapy,1161,11381,2024-09-15,Cigna
+54,1566,Emergency,MRI Scan,12575,582,2024-01-07,Cigna
+55,1243,Cardiology,MRI Scan,15288,13491,2023-07-13,Aetna
+56,1831,Cardiology,Blood Test,10560,9948,2023-05-20,UnitedHealth
+57,1504,Orthopedics,X-Ray,16336,8691,2024-06-30,UnitedHealth
+58,1130,Neurology,CT Scan,11026,338,2024-03-23,BlueCross
+59,1484,Radiology,MRI Scan,3874,558,2024-07-14,BlueCross
+60,1818,Radiology,Surgery,707,5131,2023-06-17,UnitedHealth
+61,1646,Orthopedics,Blood Test,3165,9914,2023-12-31,Medicaid
+62,1020,Orthopedics,CT Scan,19377,3656,2024-05-30,Medicare
+63,1840,Orthopedics,Blood Test,1132,1827,2023-11-11,Cigna
+64,1166,Emergency,CT Scan,3583,14470,2023-01-12,Medicare
+65,1273,Emergency,CT Scan,14211,9695,2024-02-14,Cigna
+66,1387,Pediatrics,Physical Therapy,10623,6826,2023-10-18,UnitedHealth
+67,1600,Pediatrics,MRI Scan,7623,5204,2024-07-16,BlueCross
+68,1315,Orthopedics,Consultation,11254,9526,2023-07-05,Medicaid
+69,1013,Neurology,Blood Test,2179,10578,2023-12-16,BlueCross
+70,1241,Cardiology,Consultation,16401,13483,2024-06-29,Medicare
+71,1776,Emergency,Blood Test,736,14970,2024-03-27,BlueCross
+72,1345,Neurology,Physical Therapy,7946,6852,2023-04-26,UnitedHealth
+73,1564,Oncology,Surgery,4943,6616,2023-12-31,Medicaid
+74,1897,Emergency,Consultation,15963,3370,2023-08-21,Medicare
+75,1339,Emergency,Surgery,9055,4035,2023-05-21,Medicaid
+76,1091,Pediatrics,Chemotherapy,19252,8217,2024-02-15,Cigna
+77,1366,Cardiology,MRI Scan,17169,2351,2023-12-04,BlueCross
+78,1955,Cardiology,MRI Scan,648,9629,2023-02-17,Medicaid
+79,1454,Radiology,X-Ray,13895,14272,2024-05-16,Aetna
+80,1427,Radiology,Physical Therapy,5395,12127,2023-03-30,BlueCross
+81,1508,Radiology,Surgery,17896,7105,2024-08-14,Cigna
+82,1775,Radiology,CT Scan,11523,3034,2023-05-10,Medicaid
+83,1942,Oncology,Blood Test,11199,12652,2024-09-16,Medicare
+84,1034,Oncology,MRI Scan,10215,9390,2024-09-28,Cigna
+85,1205,Emergency,Consultation,19669,2767,2023-03-02,Aetna
+86,1080,Orthopedics,Blood Test,16663,1507,2024-02-03,Medicaid
+87,1931,Pediatrics,Blood Test,6282,9048,2023-06-26,UnitedHealth
+88,1561,Pediatrics,X-Ray,19292,2860,2023-09-30,BlueCross
+89,1871,Radiology,Surgery,17224,10603,2023-08-16,Medicare
+90,1387,Emergency,MRI Scan,3317,10301,2023-10-11,UnitedHealth
+91,1001,Neurology,Blood Test,15596,3930,2024-07-25,Medicaid
+92,1389,Orthopedics,MRI Scan,19380,10438,2023-04-05,Medicaid
+93,1565,Emergency,CT Scan,5799,6407,2023-03-08,Cigna
+94,1105,Orthopedics,X-Ray,10417,3362,2024-02-03,Medicaid
+95,1771,Orthopedics,CT Scan,18573,1340,2024-08-11,Medicare
+96,1821,Orthopedics,MRI Scan,3767,14377,2023-11-30,UnitedHealth
+97,1476,Emergency,Chemotherapy,4906,8658,2024-01-21,Medicare
+98,1702,Radiology,Consultation,18326,10237,2023-12-25,Aetna
+99,1401,Pediatrics,MRI Scan,10882,1908,2023-07-29,Aetna
+100,1729,Pediatrics,Surgery,4937,3830,2024-01-31,BlueCross
+101,1555,Radiology,Blood Test,5935,3411,2023-08-23,BlueCross
+102,1161,Orthopedics,Blood Test,4607,10685,2024-04-10,Aetna
+103,1201,Neurology,CT Scan,1060,12124,2023-10-24,Medicaid
+104,1957,Cardiology,Consultation,12829,12221,2024-02-11,Medicare
+105,1995,Emergency,X-Ray,2326,6738,2023-11-22,Aetna
+106,1269,Cardiology,Chemotherapy,11921,9902,2024-09-29,BlueCross
+107,1862,Radiology,Physical Therapy,12765,675,2023-04-29,Aetna
+108,1815,Neurology,Consultation,8129,7884,2023-09-22,Medicaid
+109,1270,Emergency,Blood Test,8825,9368,2024-03-28,Aetna
+110,1455,Radiology,Surgery,8193,1407,2024-07-19,Medicare
+111,1461,Orthopedics,Consultation,8764,13531,2023-02-27,UnitedHealth
+112,1726,Pediatrics,CT Scan,13186,2160,2023-05-12,Medicaid
+113,1251,Cardiology,CT Scan,14216,757,2024-07-05,BlueCross
+114,1701,Oncology,Physical Therapy,7221,13505,2023-12-07,Medicare
+115,1295,Oncology,Surgery,19862,14093,2023-05-02,Aetna
+116,1724,Neurology,X-Ray,7873,1082,2023-06-19,Aetna
+117,1719,Orthopedics,Consultation,6407,10586,2023-08-10,UnitedHealth
+118,1748,Cardiology,Surgery,16627,4961,2024-02-14,BlueCross
+119,1337,Orthopedics,X-Ray,6156,11059,2023-11-06,BlueCross
+120,1878,Cardiology,Surgery,9484,6067,2023-01-01,Cigna
+121,1052,Neurology,Surgery,8786,7163,2024-04-07,BlueCross
+122,1791,Neurology,MRI Scan,6401,13351,2023-07-14,UnitedHealth
+123,1921,Oncology,CT Scan,5417,13069,2023-10-31,Cigna
+124,1216,Orthopedics,Consultation,8929,7366,2024-06-04,Cigna
+125,1763,Emergency,Surgery,15216,13182,2023-01-26,Aetna
+126,1187,Oncology,Consultation,16295,8129,2024-04-27,Aetna
+127,1379,Orthopedics,Physical Therapy,11638,5547,2023-06-04,BlueCross
+128,1492,Oncology,Surgery,3030,7469,2024-05-26,Cigna
+129,1040,Emergency,Blood Test,18844,10002,2023-09-09,Aetna
+130,1156,Pediatrics,CT Scan,17932,11880,2024-05-08,UnitedHealth
+131,1014,Pediatrics,Blood Test,6272,8325,2023-03-24,Aetna
+132,1812,Pediatrics,Consultation,15976,13727,2024-09-12,Medicaid
+133,1064,Pediatrics,Consultation,19413,2654,2023-03-01,Medicaid
+134,1856,Radiology,CT Scan,16251,4694,2024-01-09,Aetna
+135,1838,Cardiology,Consultation,3464,2146,2023-01-21,Cigna
+136,1520,Radiology,Blood Test,7637,13202,2024-05-28,Cigna
+137,1343,Radiology,Surgery,17847,13191,2023-06-16,Medicare
+138,1128,Radiology,Surgery,17420,3008,2023-10-29,Medicaid
+139,1647,Pediatrics,MRI Scan,14391,6842,2023-03-06,UnitedHealth
+140,1471,Emergency,Physical Therapy,7840,4025,2023-05-14,Cigna
+141,1062,Neurology,Consultation,8467,3736,2024-04-03,BlueCross
+142,1138,Neurology,Blood Test,12915,14202,2023-10-23,Medicaid
+143,1498,Cardiology,Consultation,12371,6268,2023-05-24,UnitedHealth
+144,1592,Pediatrics,Consultation,12416,4002,2024-06-08,UnitedHealth
+145,1391,Pediatrics,X-Ray,9234,12569,2024-09-11,Cigna
+146,1674,Pediatrics,MRI Scan,1345,4899,2023-07-13,UnitedHealth
+147,1418,Oncology,Blood Test,19920,2170,2023-10-17,Cigna
+148,1288,Orthopedics,Blood Test,2994,6006,2023-03-31,Aetna
+149,1378,Oncology,Consultation,13177,6342,2024-09-26,Medicaid
+150,1772,Orthopedics,MRI Scan,19603,12214,2023-01-23,Medicare
+151,1489,Pediatrics,Surgery,18768,3019,2023-03-30,Aetna
+152,1230,Pediatrics,Blood Test,12830,9294,2023-11-02,Medicaid
+153,1040,Oncology,Surgery,5679,564,2023-07-02,Cigna
+154,1027,Oncology,MRI Scan,7110,4458,2024-03-21,Medicaid
+155,1134,Orthopedics,Surgery,6930,3319,2023-11-14,Cigna
+156,1200,Neurology,CT Scan,7654,10950,2023-08-30,Aetna
+157,1839,Orthopedics,X-Ray,14328,2063,2023-07-19,BlueCross
+158,1779,Oncology,Chemotherapy,10645,315,2023-02-04,BlueCross
+159,1929,Emergency,Blood Test,6988,7284,2023-06-24,Medicaid
+160,1032,Oncology,Physical Therapy,4350,8216,2024-01-24,BlueCross
+161,1047,Emergency,X-Ray,17573,2584,2024-03-27,Cigna
+162,1502,Cardiology,Chemotherapy,14064,13368,2024-02-16,UnitedHealth
+163,1406,Oncology,Surgery,5578,4135,2023-06-01,Cigna
+164,1573,Cardiology,Blood Test,12668,13327,2024-01-31,UnitedHealth
+165,1727,Neurology,Surgery,5948,14682,2023-08-26,Aetna
+166,1804,Orthopedics,CT Scan,18063,7942,2024-10-01,Medicare
+167,1098,Emergency,MRI Scan,9574,5642,2024-07-06,UnitedHealth
+168,1683,Orthopedics,Blood Test,6906,2690,2023-12-30,BlueCross
+169,1871,Cardiology,Chemotherapy,9300,7180,2023-03-09,Cigna
+170,1725,Emergency,Chemotherapy,14583,13524,2024-08-18,Aetna
+171,1986,Orthopedics,CT Scan,2138,9334,2024-08-28,BlueCross
+172,1546,Oncology,CT Scan,10840,7861,2023-05-13,Aetna
+173,1960,Pediatrics,Consultation,1882,1924,2024-03-18,Medicare
+174,1738,Cardiology,Blood Test,1903,10726,2024-09-08,Cigna
+175,1612,Orthopedics,Surgery,9511,8382,2024-01-17,Medicaid
+176,1942,Cardiology,Physical Therapy,3792,2967,2023-04-25,Cigna
+177,1461,Radiology,Chemotherapy,9511,1337,2023-02-20,Medicare
+178,1642,Cardiology,Chemotherapy,919,10919,2023-10-12,Cigna
+179,1768,Emergency,CT Scan,12911,4317,2024-03-17,Medicaid
+180,1004,Radiology,X-Ray,5017,3620,2024-09-10,UnitedHealth
+181,1217,Emergency,CT Scan,15922,6045,2024-01-16,Aetna
+182,1502,Pediatrics,Physical Therapy,10200,4978,2024-07-24,Medicaid
+183,1766,Radiology,Surgery,6193,4106,2024-05-19,BlueCross
+184,1397,Oncology,Surgery,1267,3837,2024-04-03,Medicare
+185,1870,Cardiology,X-Ray,18928,3153,2024-02-10,UnitedHealth
+186,1794,Orthopedics,Chemotherapy,15318,6129,2023-08-26,BlueCross
+187,1392,Neurology,CT Scan,2049,10759,2024-08-22,BlueCross
+188,1206,Cardiology,Consultation,10456,12613,2024-05-27,Medicare
+189,1014,Cardiology,Surgery,6640,476,2024-02-11,UnitedHealth
+190,1857,Pediatrics,Physical Therapy,11337,2199,2023-07-18,BlueCross
+191,1553,Oncology,Blood Test,4216,1427,2023-10-10,BlueCross
+192,1891,Neurology,MRI Scan,4981,6537,2023-05-14,UnitedHealth
+193,1460,Radiology,MRI Scan,7048,12144,2023-08-27,Cigna
+194,1690,Radiology,MRI Scan,19177,3935,2023-10-07,BlueCross
+195,1574,Radiology,Consultation,5337,895,2024-01-25,Aetna
+196,1863,Emergency,Chemotherapy,8258,9701,2024-03-02,UnitedHealth
+197,1742,Emergency,CT Scan,11400,4352,2024-02-15,BlueCross
+198,1240,Orthopedics,X-Ray,8493,8101,2023-06-27,Medicare
+199,1563,Neurology,Consultation,6042,7670,2024-05-09,Medicaid
+200,1095,Radiology,Consultation,15328,11626,2024-05-03,Aetna
+201,1899,Emergency,Surgery,16552,12506,2024-09-27,Medicaid
+202,1733,Orthopedics,Blood Test,2885,7737,2023-04-23,Medicaid
+203,1484,Oncology,Consultation,14808,10703,2024-03-28,BlueCross
+204,1406,Orthopedics,Physical Therapy,1171,3041,2023-08-13,Aetna
+205,1230,Emergency,Blood Test,663,4408,2023-08-07,Aetna
+206,1748,Pediatrics,Physical Therapy,9156,11951,2023-11-14,Cigna
+207,1654,Pediatrics,Chemotherapy,11734,11790,2023-08-08,Medicaid
+208,1170,Radiology,CT Scan,5295,8933,2023-05-13,Aetna
+209,1540,Pediatrics,MRI Scan,11134,11086,2023-06-09,Cigna
+210,1035,Radiology,Consultation,5298,13066,2023-09-26,UnitedHealth
+211,1524,Radiology,CT Scan,19239,1288,2023-05-11,Cigna
+212,1159,Emergency,Chemotherapy,11249,3563,2024-06-03,Medicare
+213,1838,Pediatrics,X-Ray,6327,224,2024-01-31,BlueCross
+214,1698,Radiology,X-Ray,5219,9964,2024-09-29,UnitedHealth
+215,1242,Neurology,Chemotherapy,1093,6344,2023-09-17,UnitedHealth
+216,1085,Oncology,Physical Therapy,7894,11350,2023-05-27,Medicare
+217,1795,Orthopedics,Surgery,14556,5868,2023-07-18,Cigna
+218,1577,Orthopedics,Surgery,11136,4436,2024-06-30,BlueCross
+219,1681,Emergency,Physical Therapy,19556,10159,2023-04-11,Cigna
+220,1556,Pediatrics,X-Ray,516,13135,2023-03-11,Aetna
+221,1573,Pediatrics,X-Ray,3691,8268,2024-07-06,Cigna
+222,1952,Radiology,Consultation,892,2435,2024-02-29,UnitedHealth
+223,1645,Cardiology,X-Ray,6772,7495,2024-01-14,BlueCross
+224,1795,Radiology,CT Scan,17455,8592,2024-08-03,Cigna
+225,1027,Oncology,X-Ray,4131,11590,2023-07-03,BlueCross
+226,1619,Neurology,Blood Test,6672,8648,2023-02-20,BlueCross
+227,1555,Orthopedics,Consultation,9812,3947,2024-04-03,Aetna
+228,1339,Radiology,MRI Scan,19163,13034,2024-04-25,Aetna
+229,1797,Cardiology,X-Ray,9406,10633,2024-01-19,UnitedHealth
+230,1957,Cardiology,Physical Therapy,17659,3375,2023-04-15,Medicare
+231,1330,Radiology,MRI Scan,19131,11998,2023-04-29,BlueCross
+232,1639,Emergency,CT Scan,16962,11728,2024-06-03,Medicare
+233,1505,Orthopedics,Physical Therapy,8580,5097,2024-08-19,UnitedHealth
+234,1347,Emergency,MRI Scan,7599,5237,2023-05-25,BlueCross
+235,1472,Neurology,Physical Therapy,15416,7627,2023-04-20,BlueCross
+236,1230,Cardiology,CT Scan,7583,8805,2024-05-19,Medicaid
+237,1189,Cardiology,Consultation,9723,2214,2023-06-09,Medicare
+238,1224,Oncology,Blood Test,5440,1581,2023-09-19,Cigna
+239,1384,Neurology,CT Scan,3956,1298,2023-09-05,Aetna
+240,1376,Cardiology,CT Scan,8288,3626,2024-02-27,Cigna
+241,1282,Neurology,Physical Therapy,3211,3855,2023-04-14,Medicare
+242,1957,Orthopedics,Consultation,11780,8138,2024-02-03,Aetna
+243,1632,Pediatrics,Chemotherapy,18552,9301,2023-01-08,Cigna
+244,1627,Cardiology,Surgery,17031,387,2024-06-08,Medicaid
+245,1972,Oncology,X-Ray,12589,12436,2024-03-19,Aetna
+246,1744,Orthopedics,X-Ray,10642,12148,2023-07-14,BlueCross
+247,1258,Radiology,Blood Test,17249,10407,2023-05-19,Cigna
+248,1358,Neurology,Blood Test,16087,5609,2023-08-03,Aetna
+249,1709,Radiology,X-Ray,10366,2292,2024-06-24,Medicaid
+250,1455,Emergency,Surgery,5031,12036,2023-03-31,Aetna
+251,1410,Orthopedics,X-Ray,13186,2330,2024-08-04,Aetna
+252,1648,Radiology,Chemotherapy,5830,5442,2024-01-29,Medicaid
+253,1317,Cardiology,Surgery,6010,8749,2024-07-16,Cigna
+254,1676,Neurology,Blood Test,9464,5847,2024-08-27,UnitedHealth
+255,1224,Pediatrics,MRI Scan,6993,5385,2024-02-26,Cigna
+256,1818,Orthopedics,Physical Therapy,11259,5976,2024-09-16,Medicare
+257,1233,Cardiology,Chemotherapy,5939,10814,2023-01-14,Medicaid
+258,1683,Oncology,Chemotherapy,14973,12649,2023-03-05,Cigna
+259,1663,Emergency,Consultation,10265,8113,2024-02-07,Aetna
+260,1974,Neurology,Blood Test,13779,7747,2024-07-08,Medicaid
+261,1826,Orthopedics,Blood Test,7011,8023,2023-08-10,BlueCross
+262,1373,Orthopedics,CT Scan,11983,7555,2023-09-18,Cigna
+263,1671,Pediatrics,Chemotherapy,18130,6665,2024-04-10,Medicaid
+264,1607,Pediatrics,CT Scan,2876,12937,2024-07-18,Cigna
+265,1471,Oncology,CT Scan,19893,1697,2024-08-03,Medicaid
+266,1232,Emergency,Physical Therapy,12324,13524,2024-03-16,Aetna
+267,1691,Oncology,CT Scan,18711,14719,2023-04-26,BlueCross
+268,1112,Cardiology,Surgery,7479,10550,2024-05-16,BlueCross
+269,1829,Cardiology,X-Ray,10332,14438,2024-06-13,Medicare
+270,1496,Oncology,MRI Scan,13004,2755,2024-08-12,Medicaid
+271,1441,Emergency,Blood Test,7410,5609,2024-06-23,Cigna
+272,1563,Oncology,Surgery,14589,10734,2023-01-11,BlueCross
+273,1267,Emergency,MRI Scan,2696,3151,2024-04-04,BlueCross
+274,1509,Emergency,Chemotherapy,6478,1438,2024-02-06,UnitedHealth
+275,1806,Radiology,Chemotherapy,17653,9365,2024-07-21,UnitedHealth
+276,1385,Neurology,Chemotherapy,1280,4927,2024-09-28,BlueCross
+277,1386,Emergency,Surgery,10408,4165,2023-09-21,Medicaid
+278,1112,Pediatrics,Surgery,6803,5886,2023-02-06,Medicare
+279,1612,Emergency,Blood Test,15186,9442,2024-05-22,BlueCross
+280,1624,Emergency,X-Ray,4483,3901,2023-11-06,Aetna
+281,1951,Emergency,Consultation,10003,2980,2023-06-12,Cigna
+282,1080,Radiology,CT Scan,17405,7598,2024-05-17,Medicare
+283,1698,Radiology,Chemotherapy,13570,1788,2024-09-26,Aetna
+284,1112,Cardiology,Physical Therapy,12732,12270,2023-04-11,Medicare
+285,1001,Radiology,X-Ray,5083,2568,2024-04-10,Aetna
+286,1641,Pediatrics,Physical Therapy,6446,5989,2023-10-27,Cigna
+287,1219,Pediatrics,Blood Test,16877,636,2024-01-17,Cigna
+288,1565,Radiology,Blood Test,7628,3028,2023-03-16,UnitedHealth
+289,1854,Oncology,Blood Test,12389,1756,2024-01-16,Medicaid
+290,1996,Neurology,MRI Scan,12775,7770,2024-08-10,Aetna
+291,1735,Radiology,Physical Therapy,2961,13564,2023-07-20,UnitedHealth
+292,1224,Emergency,X-Ray,14791,12250,2023-09-19,Aetna
+293,1384,Orthopedics,Consultation,14536,7680,2024-07-14,UnitedHealth
+294,1402,Neurology,X-Ray,11935,9696,2024-05-26,Cigna
+295,1637,Neurology,Surgery,1185,14566,2024-06-06,Medicare
+296,1129,Pediatrics,Surgery,19044,10776,2023-02-19,UnitedHealth
+297,1052,Neurology,Chemotherapy,12758,382,2024-04-06,Aetna
+298,1683,Radiology,Consultation,16490,7390,2023-08-09,Aetna
+299,1729,Emergency,Surgery,16922,6887,2023-10-07,Medicaid
+300,1671,Emergency,Blood Test,11236,5765,2024-08-15,Cigna
+301,1709,Cardiology,X-Ray,5375,7441,2023-09-18,Aetna
+302,1415,Emergency,Physical Therapy,18140,7851,2023-10-10,BlueCross
+303,1246,Emergency,Blood Test,11682,5775,2023-11-04,Medicare
+304,1835,Pediatrics,MRI Scan,2696,1789,2023-02-06,UnitedHealth
+305,1438,Emergency,Surgery,7665,9979,2024-01-31,Medicaid
+306,1202,Cardiology,Blood Test,16497,9051,2023-07-13,Medicare
+307,1183,Orthopedics,Blood Test,14715,359,2024-06-17,Cigna
+308,1122,Radiology,MRI Scan,801,12345,2023-01-28,Medicaid
+309,1400,Pediatrics,CT Scan,17530,6755,2023-06-09,UnitedHealth
+310,1766,Orthopedics,X-Ray,15071,9403,2024-05-30,UnitedHealth
+311,1293,Pediatrics,Physical Therapy,10451,8444,2024-06-19,BlueCross
+312,1279,Oncology,Chemotherapy,11273,14943,2024-06-17,Cigna
+313,1836,Neurology,CT Scan,16640,13533,2024-05-23,Medicaid
+314,1883,Oncology,Surgery,13557,13541,2023-08-19,Medicaid
+315,1609,Emergency,Blood Test,13000,7046,2023-12-28,Aetna
+316,1197,Orthopedics,Consultation,16421,2507,2023-03-03,BlueCross
+317,1981,Emergency,MRI Scan,12370,1428,2023-09-02,BlueCross
+318,1906,Neurology,MRI Scan,4582,7426,2024-06-14,Medicaid
+319,1510,Pediatrics,Consultation,14218,5790,2023-11-16,Medicaid
+320,1751,Neurology,X-Ray,11017,7119,2024-02-04,Medicare
+321,1143,Cardiology,CT Scan,4254,5785,2023-05-26,Medicare
+322,1608,Neurology,Chemotherapy,2224,9427,2024-07-13,Medicare
+323,1200,Cardiology,X-Ray,1876,12094,2023-01-20,BlueCross
+324,1123,Neurology,Consultation,9206,6246,2023-01-24,Aetna
+325,1186,Radiology,Blood Test,9394,12437,2024-10-02,UnitedHealth
+326,1325,Cardiology,Consultation,18537,5145,2023-05-31,Medicare
+327,1463,Orthopedics,X-Ray,18950,8127,2024-01-05,Aetna
+328,1348,Emergency,Physical Therapy,16906,12841,2023-02-02,Cigna
+329,1770,Emergency,MRI Scan,19344,13586,2024-07-16,Medicare
+330,1659,Oncology,MRI Scan,6426,7216,2024-04-02,UnitedHealth
+331,1763,Emergency,Surgery,6751,14227,2024-07-06,Cigna
+332,1954,Pediatrics,Surgery,9996,7958,2024-02-15,Cigna
+333,1931,Radiology,Consultation,3800,13952,2023-07-23,UnitedHealth
+334,1402,Neurology,Chemotherapy,9053,5286,2023-05-22,Medicare
+335,1345,Oncology,Blood Test,4227,9656,2024-06-11,BlueCross
+336,1962,Pediatrics,Physical Therapy,17398,7361,2024-05-30,UnitedHealth
+337,1510,Pediatrics,CT Scan,17332,2084,2024-06-14,UnitedHealth
+338,1146,Cardiology,X-Ray,6519,2009,2023-06-15,UnitedHealth
+339,1147,Emergency,Chemotherapy,15963,3367,2023-11-27,Cigna
+340,1863,Orthopedics,Blood Test,10547,12189,2024-06-21,Aetna
+341,1710,Orthopedics,Surgery,12254,10733,2023-10-02,BlueCross
+342,1819,Oncology,Consultation,3020,6552,2023-06-06,Medicare
+343,1488,Radiology,X-Ray,3581,11806,2023-03-14,Medicare
+344,1928,Orthopedics,Surgery,1928,13599,2023-02-15,Aetna
+345,1935,Neurology,Consultation,4467,9209,2024-08-21,UnitedHealth
+346,1639,Orthopedics,X-Ray,6945,14287,2023-02-13,BlueCross
+347,1550,Oncology,CT Scan,15066,6256,2023-05-16,Medicare
+348,1337,Orthopedics,Blood Test,14542,2637,2024-08-24,Medicaid
+349,1871,Neurology,X-Ray,11829,6668,2023-02-23,Medicare
+350,1640,Cardiology,Physical Therapy,2659,9280,2023-05-27,UnitedHealth
+351,1778,Radiology,Chemotherapy,5632,6151,2023-11-04,Medicaid
+352,1987,Oncology,MRI Scan,19431,5476,2024-08-05,Aetna
+353,1952,Cardiology,Physical Therapy,19863,9059,2023-11-25,BlueCross
+354,1472,Cardiology,Physical Therapy,15433,8018,2023-04-14,Aetna
+355,1945,Cardiology,Chemotherapy,10973,4928,2023-10-25,Aetna
+356,1150,Pediatrics,MRI Scan,19533,2824,2023-03-19,BlueCross
+357,1414,Radiology,Physical Therapy,11305,5938,2023-05-01,BlueCross
+358,1989,Emergency,X-Ray,3583,4432,2024-02-25,Medicare
+359,1297,Radiology,X-Ray,17921,14434,2023-02-01,Medicare
+360,1610,Pediatrics,X-Ray,14444,5993,2024-03-02,BlueCross
+361,1262,Emergency,MRI Scan,8104,4723,2023-12-10,Medicaid
+362,1763,Radiology,Physical Therapy,15879,5771,2023-01-11,Cigna
+363,1143,Cardiology,Consultation,19518,9210,2023-03-12,Medicare
+364,1345,Oncology,MRI Scan,4483,10580,2024-02-24,Cigna
+365,1623,Emergency,X-Ray,2278,9498,2024-03-11,Medicaid
+366,1571,Neurology,Chemotherapy,5610,2424,2023-07-31,BlueCross
+367,1880,Neurology,Physical Therapy,12587,8589,2023-07-03,Medicaid
+368,1001,Orthopedics,Physical Therapy,18008,11063,2024-07-02,Medicare
+369,1896,Emergency,Surgery,17581,6291,2023-09-26,Aetna
+370,1303,Oncology,Surgery,2679,11884,2023-12-10,BlueCross
+371,1253,Pediatrics,CT Scan,10096,10840,2024-08-30,UnitedHealth
+372,1651,Cardiology,Consultation,5751,8862,2023-12-25,Cigna
+373,1452,Orthopedics,Consultation,9735,6561,2024-06-03,Medicaid
+374,1036,Neurology,Blood Test,18813,2148,2024-04-05,BlueCross
+375,1159,Pediatrics,Consultation,15371,13416,2023-09-27,Medicaid
+376,1008,Pediatrics,Surgery,1513,12291,2023-04-08,BlueCross
+377,1232,Cardiology,MRI Scan,17110,10402,2024-04-10,Medicare
+378,1098,Emergency,Consultation,2328,12192,2023-04-06,Medicare
+379,1658,Neurology,Surgery,8409,7294,2023-01-05,Medicare
+380,1815,Oncology,CT Scan,6088,13393,2024-05-27,Medicaid
+381,1207,Pediatrics,Physical Therapy,13609,6518,2024-05-01,UnitedHealth
+382,1130,Cardiology,Consultation,2523,12510,2023-08-04,Medicare
+383,1403,Oncology,CT Scan,15037,3996,2023-04-01,BlueCross
+384,1151,Emergency,Physical Therapy,6391,12380,2023-07-06,Medicare
+385,1053,Neurology,Chemotherapy,1580,434,2024-05-23,Aetna
+386,1119,Emergency,Chemotherapy,5536,13612,2023-09-12,Medicare
+387,1672,Pediatrics,Physical Therapy,15879,9320,2023-08-24,Medicaid
+388,1919,Oncology,Consultation,11322,3807,2023-10-12,UnitedHealth
+389,1627,Oncology,Blood Test,3063,8243,2023-11-13,Aetna
+390,1586,Oncology,Surgery,3792,722,2023-01-10,Medicaid
+391,1624,Pediatrics,MRI Scan,4086,6104,2023-10-27,Medicaid
+392,1967,Pediatrics,MRI Scan,16587,11915,2023-12-05,Medicaid
+393,1419,Emergency,X-Ray,16600,12918,2023-10-27,BlueCross
+394,1421,Orthopedics,Physical Therapy,7143,5088,2023-10-18,Medicaid
+395,1103,Emergency,MRI Scan,4459,10021,2024-06-02,BlueCross
+396,1851,Neurology,Consultation,11505,6032,2024-05-14,Medicaid
+397,1253,Cardiology,Blood Test,11275,13020,2023-11-14,Cigna
+398,1226,Oncology,Physical Therapy,661,7322,2023-06-04,Aetna
+399,1111,Orthopedics,Blood Test,16529,6042,2023-10-12,Cigna
+400,1509,Cardiology,Consultation,17477,14163,2023-07-18,Medicaid
+401,1472,Orthopedics,MRI Scan,14726,1516,2024-03-20,Aetna
+402,1098,Radiology,MRI Scan,11654,11249,2023-09-29,Aetna
+403,1152,Emergency,X-Ray,12580,13400,2023-05-22,UnitedHealth
+404,1860,Pediatrics,MRI Scan,3890,1324,2024-03-11,Cigna
+405,1913,Oncology,Physical Therapy,6497,5821,2023-02-22,UnitedHealth
+406,1895,Emergency,Consultation,13193,5623,2024-07-02,Aetna
+407,1877,Cardiology,Chemotherapy,17547,2787,2023-01-08,BlueCross
+408,1337,Radiology,Consultation,9824,9415,2023-08-02,Aetna
+409,1705,Radiology,Physical Therapy,1041,5872,2024-09-27,UnitedHealth
+410,1821,Radiology,Physical Therapy,5593,1578,2023-03-17,Cigna
+411,1162,Cardiology,X-Ray,13928,3574,2023-03-22,Medicaid
+412,1719,Cardiology,X-Ray,11666,1719,2023-08-09,Medicaid
+413,1956,Cardiology,MRI Scan,17751,5977,2024-09-15,Cigna
+414,1680,Cardiology,CT Scan,16563,8135,2023-05-14,Medicaid
+415,1995,Radiology,Consultation,10758,6293,2024-04-20,Medicaid
+416,1160,Radiology,Consultation,16544,8618,2023-08-16,UnitedHealth
+417,1579,Orthopedics,CT Scan,5969,5555,2024-09-14,Cigna
+418,1800,Emergency,X-Ray,6756,5168,2024-08-22,Medicare
+419,1397,Oncology,MRI Scan,11220,9283,2023-06-12,BlueCross
+420,1276,Pediatrics,CT Scan,1669,5774,2023-08-20,BlueCross
+421,1815,Radiology,MRI Scan,1330,4272,2023-03-18,Medicaid
+422,1915,Pediatrics,MRI Scan,2151,13524,2024-07-09,BlueCross
+423,1503,Emergency,MRI Scan,18020,2457,2024-03-23,Cigna
+424,1895,Emergency,Surgery,19694,11180,2024-07-01,Cigna
+425,1391,Pediatrics,Physical Therapy,10018,8788,2024-03-02,Aetna
+426,1134,Radiology,MRI Scan,13758,13611,2023-08-24,Aetna
+427,1194,Pediatrics,Surgery,16684,10470,2023-05-26,BlueCross
+428,1400,Orthopedics,X-Ray,1519,13136,2024-01-25,Medicare
+429,1639,Neurology,CT Scan,10528,4624,2023-01-15,Aetna
+430,1032,Radiology,Physical Therapy,12948,3437,2024-01-17,Aetna
+431,1687,Radiology,Chemotherapy,12985,13970,2023-05-20,Cigna
+432,1459,Oncology,CT Scan,1783,4093,2024-02-22,Medicare
+433,1954,Cardiology,Physical Therapy,17543,13439,2024-04-26,Medicaid
+434,1882,Neurology,Chemotherapy,18894,2205,2023-11-25,BlueCross
+435,1469,Emergency,CT Scan,2233,2216,2023-12-23,Aetna
+436,1374,Radiology,Physical Therapy,19009,11563,2024-08-19,Medicare
+437,1021,Pediatrics,CT Scan,19055,11060,2023-05-01,Medicare
+438,1749,Neurology,CT Scan,16730,10270,2023-02-22,BlueCross
+439,1669,Oncology,Chemotherapy,14972,9588,2024-06-16,Medicare
+440,1037,Emergency,CT Scan,13389,1972,2024-01-08,Medicare
+441,1229,Cardiology,CT Scan,3971,8553,2023-09-04,Medicare
+442,1364,Cardiology,Chemotherapy,9528,4176,2023-11-05,Aetna
+443,1562,Oncology,X-Ray,8829,1951,2024-02-24,BlueCross
+444,1437,Oncology,MRI Scan,2597,9167,2024-06-09,Medicare
+445,1775,Pediatrics,Consultation,14582,7630,2023-09-14,Medicare
+446,1282,Radiology,Blood Test,14430,14315,2023-08-21,Aetna
+447,1026,Cardiology,Surgery,10577,14809,2024-05-28,BlueCross
+448,1225,Emergency,Blood Test,6897,7370,2023-02-04,Cigna
+449,1276,Neurology,Blood Test,3257,13539,2024-01-12,Aetna
+450,1797,Emergency,Physical Therapy,18784,6669,2023-02-24,BlueCross
+451,1608,Orthopedics,MRI Scan,19494,9331,2024-09-01,Medicare
+452,1283,Orthopedics,Physical Therapy,18333,3420,2023-09-11,BlueCross
+453,1878,Oncology,MRI Scan,5517,739,2024-07-13,BlueCross
+454,1959,Pediatrics,Chemotherapy,16870,13309,2023-06-13,Medicaid
+455,1480,Orthopedics,Chemotherapy,8499,1661,2023-10-17,BlueCross
+456,1452,Cardiology,Consultation,10695,5384,2023-12-01,Cigna
+457,1828,Emergency,MRI Scan,2596,8747,2023-02-12,BlueCross
+458,1815,Emergency,CT Scan,15933,11996,2024-10-01,Cigna
+459,1658,Oncology,X-Ray,11095,11715,2023-03-03,Medicare
+460,1515,Radiology,Consultation,16441,434,2023-08-16,Cigna
+461,1546,Radiology,Consultation,15578,14762,2024-01-22,Medicare
+462,1191,Neurology,CT Scan,5605,1748,2023-11-05,Medicare
+463,1048,Oncology,X-Ray,19862,7680,2024-08-06,Cigna
+464,1511,Neurology,Physical Therapy,3339,10488,2024-09-25,Aetna
+465,1016,Radiology,X-Ray,3884,4413,2024-07-07,UnitedHealth
+466,1171,Oncology,Physical Therapy,11351,10493,2024-02-15,BlueCross
+467,1219,Oncology,Chemotherapy,10553,1873,2024-06-04,Medicaid
+468,1157,Oncology,Blood Test,13993,6908,2024-06-08,UnitedHealth
+469,1476,Radiology,Chemotherapy,17569,13555,2024-09-22,BlueCross
+470,1045,Neurology,Chemotherapy,14639,8182,2023-02-09,BlueCross
+471,1372,Neurology,Blood Test,8031,2300,2023-08-25,Medicare
+472,1517,Oncology,X-Ray,4783,12049,2023-12-04,BlueCross
+473,1098,Orthopedics,Consultation,8236,13045,2023-12-12,Medicaid
+474,1891,Pediatrics,X-Ray,8210,11988,2023-11-15,BlueCross
+475,1744,Radiology,Physical Therapy,2119,3948,2023-10-31,Cigna
+476,1036,Pediatrics,CT Scan,14475,3373,2023-05-08,UnitedHealth
+477,1279,Pediatrics,Physical Therapy,13335,2015,2023-09-23,Cigna
+478,1348,Neurology,CT Scan,15761,4041,2023-11-28,Medicaid
+479,1496,Neurology,Chemotherapy,1931,10397,2023-10-17,BlueCross
+480,1301,Orthopedics,Blood Test,9567,8216,2023-04-22,Medicaid
+481,1180,Pediatrics,Chemotherapy,5213,7211,2024-03-13,Medicare
+482,1606,Pediatrics,MRI Scan,10057,4693,2024-07-25,Cigna
+483,1098,Oncology,X-Ray,9935,874,2024-05-10,Cigna
+484,1699,Neurology,CT Scan,5498,8288,2024-07-10,Aetna
+485,1992,Pediatrics,Physical Therapy,662,8778,2023-12-11,BlueCross
+486,1115,Emergency,Blood Test,2474,2358,2023-05-02,Medicare
+487,1190,Orthopedics,CT Scan,8961,2861,2023-04-20,Cigna
+488,1252,Emergency,Physical Therapy,17515,2264,2023-04-15,Cigna
+489,1980,Emergency,X-Ray,17789,12243,2023-06-11,Medicare
+490,1927,Radiology,Chemotherapy,2514,3453,2024-09-10,Medicaid
+491,1982,Radiology,X-Ray,10333,5179,2024-07-01,Medicaid
+492,1160,Orthopedics,Surgery,8396,7903,2023-03-22,BlueCross
+493,1255,Emergency,MRI Scan,704,13028,2024-08-02,Aetna
+494,1322,Pediatrics,Surgery,17465,12658,2023-06-21,Cigna
+495,1127,Neurology,Blood Test,9532,14944,2023-10-26,Aetna
+496,1017,Orthopedics,CT Scan,5847,9131,2024-07-13,Medicaid
+497,1792,Oncology,Blood Test,3143,1601,2023-01-13,Medicaid
+498,1734,Emergency,Chemotherapy,8517,3459,2023-07-26,UnitedHealth
+499,1565,Orthopedics,Physical Therapy,19181,10669,2024-02-02,BlueCross
+500,1569,Cardiology,X-Ray,17758,12296,2023-06-01,UnitedHealth
+501,1322,Cardiology,Surgery,6060,4123,2023-10-06,UnitedHealth
+502,1871,Radiology,Consultation,16392,4414,2023-11-10,UnitedHealth
+503,1685,Neurology,Surgery,15031,3427,2023-06-05,BlueCross
+504,1791,Pediatrics,Chemotherapy,17573,11223,2023-05-04,BlueCross
+505,1625,Neurology,Surgery,4500,12150,2023-06-09,Medicare
+506,1287,Neurology,Chemotherapy,14789,10904,2024-03-08,Aetna
+507,1942,Neurology,Consultation,17555,10543,2023-09-21,Aetna
+508,1853,Neurology,Blood Test,8427,12067,2023-10-02,Medicare
+509,1662,Oncology,X-Ray,16062,2945,2023-01-15,Medicare
+510,1961,Oncology,CT Scan,1671,6291,2024-06-26,Medicaid
+511,1638,Radiology,Physical Therapy,12418,4066,2023-09-22,UnitedHealth
+512,1154,Orthopedics,CT Scan,9635,12156,2024-06-05,Medicare
+513,1489,Cardiology,Blood Test,6842,14193,2023-10-22,Cigna
+514,1385,Neurology,Physical Therapy,18333,6018,2023-12-19,Aetna
+515,1985,Radiology,Surgery,12429,2422,2024-06-04,Medicare
+516,1784,Orthopedics,Consultation,3039,2992,2024-04-13,Cigna
+517,1103,Cardiology,Consultation,4459,10089,2024-07-26,Cigna
+518,1928,Emergency,MRI Scan,13683,13932,2024-07-11,Cigna
+519,1392,Pediatrics,Blood Test,5932,11854,2024-03-12,Medicaid
+520,1810,Oncology,Blood Test,19245,4263,2023-10-01,Medicaid
+521,1245,Emergency,X-Ray,2253,14247,2023-06-27,Cigna
+522,1175,Cardiology,CT Scan,18822,1724,2023-07-05,Medicaid
+523,1038,Emergency,Blood Test,10623,13152,2024-08-12,UnitedHealth
+524,1476,Pediatrics,Blood Test,16876,8424,2023-11-28,Cigna
+525,1681,Radiology,Surgery,7088,6398,2023-10-08,UnitedHealth
+526,1758,Cardiology,Surgery,6804,4225,2023-09-09,UnitedHealth
+527,1537,Emergency,Physical Therapy,7845,2766,2023-11-16,Cigna
+528,1866,Oncology,Chemotherapy,15852,3003,2024-07-05,Aetna
+529,1817,Oncology,Chemotherapy,1097,12288,2023-12-10,Cigna
+530,1920,Orthopedics,MRI Scan,19946,3909,2024-08-01,Cigna
+531,1407,Emergency,Chemotherapy,2836,6355,2024-06-28,Medicaid
+532,1524,Neurology,X-Ray,10379,14039,2023-07-19,Cigna
+533,1827,Emergency,MRI Scan,1072,919,2023-11-15,Aetna
+534,1505,Radiology,Physical Therapy,8021,6716,2023-03-18,Medicaid
+535,1902,Cardiology,Surgery,6671,4779,2023-12-04,BlueCross
+536,1824,Cardiology,Chemotherapy,18974,1172,2024-02-26,BlueCross
+537,1035,Radiology,CT Scan,14492,3918,2023-02-11,UnitedHealth
+538,1684,Emergency,Surgery,12361,7595,2023-11-08,UnitedHealth
+539,1019,Radiology,Consultation,12964,4602,2023-11-19,Aetna
+540,1320,Pediatrics,X-Ray,2133,4752,2024-07-19,Medicare
+541,1775,Radiology,Surgery,18401,2407,2023-03-14,BlueCross
+542,1511,Oncology,X-Ray,12985,4626,2023-03-26,UnitedHealth
+543,1399,Radiology,X-Ray,11349,7119,2023-11-19,BlueCross
+544,1653,Cardiology,X-Ray,4148,12712,2023-11-02,Aetna
+545,1971,Oncology,Physical Therapy,15677,11422,2023-08-31,Aetna
+546,1882,Cardiology,X-Ray,13640,11967,2023-09-06,Medicare
+547,1470,Orthopedics,X-Ray,18421,13967,2024-06-21,Medicare
+548,1142,Neurology,Consultation,14857,11508,2024-06-23,Medicaid
+549,1091,Cardiology,CT Scan,13868,11677,2024-09-19,Aetna
+550,1353,Oncology,MRI Scan,3637,13570,2023-09-26,UnitedHealth
+551,1833,Orthopedics,Blood Test,597,9035,2023-09-06,BlueCross
+552,1799,Cardiology,Consultation,11907,13103,2024-09-29,Cigna
+553,1726,Pediatrics,MRI Scan,13222,8586,2023-08-10,Medicare
+554,1958,Radiology,X-Ray,13424,12388,2023-09-08,Cigna
+555,1853,Neurology,CT Scan,4250,8880,2023-01-19,UnitedHealth
+556,1050,Cardiology,Surgery,9035,2404,2023-02-26,Medicare
+557,1664,Orthopedics,CT Scan,5166,11049,2024-09-07,Cigna
+558,1697,Pediatrics,Consultation,16509,5545,2024-04-22,UnitedHealth
+559,1574,Emergency,X-Ray,17494,14947,2024-03-23,BlueCross
+560,1189,Orthopedics,CT Scan,2227,3476,2023-10-22,UnitedHealth
+561,1124,Radiology,Chemotherapy,2354,1302,2023-03-29,Medicaid
+562,1149,Orthopedics,CT Scan,11300,5443,2023-11-26,Medicare
+563,1313,Pediatrics,X-Ray,5555,6814,2024-04-16,Aetna
+564,1569,Orthopedics,Physical Therapy,10771,9633,2024-08-01,BlueCross
+565,1341,Pediatrics,Chemotherapy,19208,8907,2024-03-02,Cigna
+566,1304,Cardiology,CT Scan,13319,14113,2023-12-01,Medicare
+567,1691,Pediatrics,Blood Test,9869,5423,2023-01-13,Aetna
+568,1681,Pediatrics,Blood Test,9783,8784,2024-05-26,UnitedHealth
+569,1837,Neurology,CT Scan,13671,830,2023-07-21,Aetna
+570,1782,Pediatrics,Physical Therapy,6274,12108,2024-07-26,Medicare
+571,1053,Pediatrics,Surgery,7019,10239,2023-08-16,Medicare
+572,1443,Emergency,X-Ray,11483,11047,2023-12-28,Medicaid
+573,1612,Cardiology,Blood Test,18633,9371,2024-04-30,Medicaid
+574,1992,Radiology,Surgery,15439,12921,2024-04-10,Aetna
+575,1263,Neurology,CT Scan,1281,11794,2024-02-24,UnitedHealth
+576,1052,Emergency,Consultation,16782,12263,2024-04-26,Aetna
+577,1571,Oncology,Surgery,7323,6883,2024-01-08,Medicare
+578,1619,Cardiology,Chemotherapy,18989,477,2024-01-20,Medicare
+579,1004,Cardiology,MRI Scan,7693,432,2023-08-05,Cigna
+580,1102,Oncology,Blood Test,2613,9944,2024-05-04,Medicaid
+581,1195,Radiology,CT Scan,16780,5890,2024-03-07,Cigna
+582,1773,Pediatrics,Consultation,14065,13601,2023-08-21,BlueCross
+583,1876,Emergency,X-Ray,10683,7859,2024-02-14,Medicare
+584,1991,Orthopedics,Consultation,18461,11662,2024-08-16,Cigna
+585,1883,Neurology,Physical Therapy,9703,10801,2023-06-26,Aetna
+586,1349,Orthopedics,Chemotherapy,19158,11904,2024-09-28,Medicaid
+587,1046,Oncology,CT Scan,16295,225,2024-05-18,Medicaid
+588,1866,Cardiology,X-Ray,19310,13905,2023-06-15,UnitedHealth
+589,1822,Radiology,Physical Therapy,13989,7668,2024-02-01,Aetna
+590,1935,Cardiology,Physical Therapy,6046,6610,2023-04-01,UnitedHealth
+591,1819,Neurology,CT Scan,7352,8852,2024-06-29,Cigna
+592,1655,Cardiology,Chemotherapy,3051,3964,2024-04-07,BlueCross
+593,1268,Cardiology,Surgery,6911,6799,2024-08-14,Aetna
+594,1369,Neurology,Surgery,16891,11823,2023-01-24,Aetna
+595,1635,Emergency,Physical Therapy,19439,13579,2023-10-21,Aetna
+596,1105,Emergency,Surgery,975,5302,2024-04-29,UnitedHealth
+597,1669,Neurology,MRI Scan,10903,7206,2023-08-22,Cigna
+598,1658,Radiology,Physical Therapy,7739,3683,2023-01-15,Aetna
+599,1656,Oncology,Physical Therapy,7210,2194,2023-12-05,Aetna
+600,1119,Cardiology,X-Ray,8578,8882,2023-08-15,Medicaid
+601,1830,Radiology,Surgery,2785,1272,2023-01-04,BlueCross
+602,1786,Cardiology,Chemotherapy,5723,6907,2023-10-04,Medicaid
+603,1603,Oncology,Physical Therapy,14021,11565,2023-01-06,Medicaid
+604,1057,Emergency,Consultation,15389,415,2024-02-01,BlueCross
+605,1950,Radiology,Chemotherapy,7471,7805,2023-01-28,Cigna
+606,1345,Pediatrics,MRI Scan,12031,10115,2023-11-22,Medicaid
+607,1740,Pediatrics,X-Ray,15221,9984,2023-07-30,Cigna
+608,1473,Pediatrics,CT Scan,19706,2806,2023-01-25,Medicaid
+609,1116,Emergency,Chemotherapy,5443,8550,2023-06-06,Medicare
+610,1829,Emergency,Physical Therapy,7030,4981,2023-01-03,BlueCross
+611,1790,Oncology,MRI Scan,11616,3513,2023-01-28,Medicaid
+612,1126,Cardiology,Blood Test,758,11233,2023-12-14,Medicare
+613,1392,Oncology,MRI Scan,782,10168,2023-12-31,UnitedHealth
+614,1907,Oncology,MRI Scan,14437,10444,2023-07-18,Medicare
+615,1640,Emergency,X-Ray,2398,7963,2023-10-08,Aetna
+616,1057,Pediatrics,CT Scan,4635,6139,2023-08-06,Medicaid
+617,1633,Orthopedics,Blood Test,7129,14896,2023-07-29,Medicare
+618,1512,Cardiology,Surgery,11668,14994,2023-12-31,Cigna
+619,1750,Emergency,Surgery,1112,2495,2023-07-08,UnitedHealth
+620,1801,Pediatrics,Chemotherapy,14703,5885,2023-08-16,Medicaid
+621,1095,Radiology,MRI Scan,17571,1896,2023-04-04,Aetna
+622,1637,Orthopedics,Consultation,2807,11385,2024-01-27,Medicare
+623,1117,Orthopedics,X-Ray,7633,10861,2024-05-30,UnitedHealth
+624,1559,Emergency,Consultation,11705,2146,2023-12-20,Medicaid
+625,1600,Neurology,X-Ray,6406,12201,2023-03-28,UnitedHealth
+626,1487,Cardiology,Surgery,3091,14550,2024-07-10,Aetna
+627,1236,Orthopedics,Chemotherapy,15649,2983,2024-08-19,Medicare
+628,1884,Emergency,Chemotherapy,12650,3844,2024-05-19,UnitedHealth
+629,1896,Emergency,Chemotherapy,7683,5441,2024-09-09,UnitedHealth
+630,1271,Pediatrics,Blood Test,10602,6620,2024-04-01,BlueCross
+631,1188,Radiology,CT Scan,17553,14069,2024-06-08,UnitedHealth
+632,1998,Neurology,Blood Test,1783,10892,2024-08-26,BlueCross
+633,1703,Cardiology,Physical Therapy,1423,7757,2023-11-03,Medicare
+634,1446,Oncology,Physical Therapy,1625,12037,2023-07-20,Medicaid
+635,1580,Radiology,Consultation,2029,2845,2024-09-02,Medicaid
+636,1789,Radiology,CT Scan,8938,6789,2023-03-09,Medicare
+637,1860,Pediatrics,Surgery,16654,6553,2024-04-09,Medicare
+638,1246,Orthopedics,CT Scan,8504,10741,2024-03-30,Cigna
+639,1962,Orthopedics,X-Ray,10252,2132,2023-01-20,Medicare
+640,1075,Pediatrics,Physical Therapy,11092,11686,2024-07-14,UnitedHealth
+641,1153,Emergency,MRI Scan,4364,1957,2024-04-01,Medicaid
+642,1655,Orthopedics,MRI Scan,726,14538,2024-02-11,Aetna
+643,1434,Neurology,Surgery,15536,5285,2023-01-15,Medicaid
+644,1996,Cardiology,X-Ray,12239,5837,2024-02-04,BlueCross
+645,1085,Radiology,Consultation,17148,1316,2024-08-23,Medicaid
+646,1696,Radiology,Blood Test,10087,10959,2023-01-16,Cigna
+647,1284,Neurology,X-Ray,12249,11891,2023-04-23,Medicare
+648,1973,Orthopedics,MRI Scan,1145,692,2023-05-19,Medicare
+649,1219,Radiology,MRI Scan,16799,11698,2024-03-01,Medicaid
+650,1068,Oncology,Consultation,19874,9011,2024-04-26,Aetna
+651,1046,Cardiology,Physical Therapy,14175,11624,2023-06-10,Aetna
+652,1093,Cardiology,X-Ray,19388,8088,2024-06-17,Cigna
+653,1749,Radiology,X-Ray,11464,12215,2023-02-02,BlueCross
+654,1957,Pediatrics,MRI Scan,16587,6674,2023-03-12,Medicaid
+655,1452,Radiology,Blood Test,14037,10772,2023-11-02,Medicare
+656,1203,Pediatrics,Surgery,13769,14585,2023-09-08,Medicaid
+657,1911,Radiology,Chemotherapy,9846,9938,2023-02-15,Cigna
+658,1217,Oncology,Surgery,1087,5158,2024-06-06,UnitedHealth
+659,1473,Emergency,X-Ray,13263,14179,2023-11-11,UnitedHealth
+660,1431,Cardiology,Surgery,9677,11955,2023-08-09,Cigna
+661,1340,Radiology,MRI Scan,4579,9997,2024-05-05,Medicare
+662,1550,Oncology,MRI Scan,3848,12144,2023-01-16,Cigna
+663,1611,Pediatrics,Consultation,18599,14807,2024-09-01,Medicare
+664,1288,Pediatrics,X-Ray,11285,13067,2024-05-10,Aetna
+665,1253,Cardiology,Consultation,12828,10282,2023-12-24,Cigna
+666,1733,Neurology,X-Ray,6950,9667,2023-01-09,Medicare
+667,1356,Radiology,Chemotherapy,13730,2943,2024-02-20,Cigna
+668,1022,Orthopedics,Chemotherapy,5933,14343,2023-05-05,Cigna
+669,1761,Pediatrics,Physical Therapy,1598,8066,2023-05-20,Medicare
+670,1521,Emergency,X-Ray,7596,10885,2024-02-11,Medicare
+671,1757,Emergency,Blood Test,19210,7360,2024-01-13,BlueCross
+672,1836,Pediatrics,Surgery,11939,5651,2024-04-01,Cigna
+673,1099,Neurology,X-Ray,9587,5458,2024-02-27,UnitedHealth
+674,1801,Neurology,CT Scan,16521,8748,2024-08-30,Cigna
+675,1179,Oncology,Physical Therapy,6916,14112,2024-09-29,Cigna
+676,1222,Emergency,CT Scan,7480,14809,2024-04-26,Medicare
+677,1905,Oncology,MRI Scan,18558,7386,2023-03-16,Cigna
+678,1761,Emergency,Chemotherapy,11601,6302,2024-05-12,Medicaid
+679,1658,Radiology,Surgery,8450,14846,2024-08-10,Cigna
+680,1441,Radiology,X-Ray,9622,9261,2024-05-11,Medicaid
+681,1607,Orthopedics,CT Scan,13076,9277,2023-01-24,UnitedHealth
+682,1768,Radiology,Surgery,1589,10393,2023-04-16,Medicare
+683,1324,Orthopedics,MRI Scan,5078,14689,2024-06-29,Cigna
+684,1515,Radiology,Chemotherapy,9627,13901,2023-09-10,Medicaid
+685,1015,Cardiology,Blood Test,10987,9675,2023-12-12,Medicaid
+686,1791,Radiology,Physical Therapy,655,819,2023-03-15,Medicaid
+687,1335,Oncology,Surgery,2458,1082,2023-10-19,Aetna
+688,1758,Pediatrics,Surgery,11193,9188,2023-10-01,BlueCross
+689,1257,Oncology,Blood Test,6844,3842,2024-06-30,UnitedHealth
+690,1496,Pediatrics,Surgery,6279,14660,2024-05-11,Cigna
+691,1987,Neurology,MRI Scan,4330,11817,2023-10-23,Aetna
+692,1895,Oncology,MRI Scan,9546,1496,2023-09-09,Cigna
+693,1159,Neurology,Blood Test,10294,13106,2024-09-14,Cigna
+694,1474,Orthopedics,Physical Therapy,941,14322,2024-07-23,Medicare
+695,1851,Orthopedics,X-Ray,14978,8636,2023-02-22,Medicare
+696,1663,Cardiology,CT Scan,5128,3095,2023-12-26,Medicare
+697,1907,Radiology,X-Ray,6870,6793,2023-07-18,Aetna
+698,1689,Oncology,Surgery,10028,1129,2024-04-27,Cigna
+699,1674,Neurology,CT Scan,17832,5566,2023-09-23,BlueCross
+700,1379,Pediatrics,Consultation,12065,8911,2024-05-27,UnitedHealth
+701,1544,Orthopedics,Blood Test,8679,3412,2023-03-25,Medicare
+702,1928,Radiology,Blood Test,16513,2609,2024-02-25,Medicare
+703,1956,Orthopedics,Physical Therapy,17343,8399,2023-08-29,Cigna
+704,1690,Pediatrics,CT Scan,892,10917,2023-01-12,Cigna
+705,1426,Radiology,MRI Scan,12630,3623,2024-03-20,Aetna
+706,1612,Radiology,CT Scan,18671,10411,2023-03-19,Aetna
+707,1267,Neurology,Surgery,10949,12982,2024-05-21,Medicare
+708,1834,Neurology,MRI Scan,18022,14117,2023-07-12,Cigna
+709,1576,Oncology,Chemotherapy,7918,7176,2023-03-01,BlueCross
+710,1416,Oncology,Chemotherapy,2954,7794,2024-07-26,UnitedHealth
+711,1167,Emergency,Consultation,18261,5358,2024-03-20,Cigna
+712,1841,Emergency,Chemotherapy,15723,12674,2024-07-15,Cigna
+713,1042,Cardiology,Blood Test,7201,3867,2024-08-14,Medicaid
+714,1555,Orthopedics,CT Scan,3097,12063,2023-12-11,Aetna
+715,1284,Oncology,Chemotherapy,641,11193,2024-06-11,UnitedHealth
+716,1396,Neurology,X-Ray,3159,6173,2024-01-13,Medicare
+717,1011,Pediatrics,Physical Therapy,9531,6436,2023-10-31,Cigna
+718,1606,Neurology,X-Ray,15537,8477,2023-02-23,Medicare
+719,1301,Orthopedics,Chemotherapy,14470,11507,2024-03-28,Cigna
+720,1897,Emergency,Consultation,6161,12624,2023-12-28,Medicare
+721,1252,Neurology,Physical Therapy,6642,2668,2024-05-26,UnitedHealth
+722,1498,Cardiology,Surgery,12609,6417,2023-02-17,Aetna
+723,1753,Orthopedics,X-Ray,9287,3819,2023-10-20,UnitedHealth
+724,1034,Emergency,Consultation,10596,1836,2023-02-14,Medicaid
+725,1726,Pediatrics,CT Scan,8972,8355,2023-12-24,BlueCross
+726,1848,Emergency,CT Scan,17307,3783,2023-08-06,Aetna
+727,1089,Radiology,X-Ray,4749,4209,2023-05-04,UnitedHealth
+728,1775,Cardiology,Chemotherapy,15449,3526,2024-02-15,Medicaid
+729,1604,Orthopedics,Consultation,2250,10610,2023-06-25,BlueCross
+730,1921,Pediatrics,CT Scan,18851,8348,2023-04-22,Medicaid
+731,1969,Cardiology,Surgery,4588,14239,2023-01-23,Cigna
+732,1601,Emergency,MRI Scan,15782,2417,2024-02-29,Cigna
+733,1417,Cardiology,Chemotherapy,19830,14275,2023-04-12,Medicare
+734,1114,Orthopedics,Consultation,10141,5167,2023-07-13,Aetna
+735,1616,Oncology,Surgery,5575,2569,2023-08-01,Cigna
+736,1902,Cardiology,Consultation,10912,3838,2023-03-18,Medicaid
+737,1195,Radiology,Physical Therapy,16186,10895,2024-04-24,Aetna
+738,1825,Cardiology,Surgery,7730,9335,2024-02-18,Cigna
+739,1500,Emergency,Chemotherapy,15932,5922,2024-05-09,Medicare
+740,1625,Emergency,Physical Therapy,11502,11229,2023-07-09,UnitedHealth
+741,1492,Pediatrics,Chemotherapy,14447,11052,2023-11-12,Medicare
+742,1074,Emergency,CT Scan,14186,11328,2024-01-09,BlueCross
+743,1412,Neurology,MRI Scan,18415,4644,2023-09-25,Cigna
+744,1375,Orthopedics,Chemotherapy,13574,7818,2024-08-14,BlueCross
+745,1419,Orthopedics,Chemotherapy,19874,4147,2024-06-25,BlueCross
+746,1728,Oncology,CT Scan,4993,1876,2024-04-11,Medicaid
+747,1276,Oncology,Blood Test,17817,1396,2024-05-02,Aetna
+748,1760,Orthopedics,CT Scan,1960,12497,2023-02-12,Medicaid
+749,1675,Radiology,Physical Therapy,14640,2987,2023-09-30,Cigna
+750,1393,Oncology,CT Scan,19607,7632,2024-05-24,BlueCross
+751,1868,Pediatrics,CT Scan,11204,9853,2024-07-13,UnitedHealth
+752,1456,Emergency,MRI Scan,17169,8127,2023-12-26,BlueCross
+753,1919,Orthopedics,CT Scan,17148,3518,2023-08-08,UnitedHealth
+754,1191,Oncology,Consultation,7316,9058,2023-12-07,Medicaid
+755,1738,Orthopedics,Chemotherapy,12139,6889,2023-12-22,Medicaid
+756,1688,Neurology,Consultation,14924,14010,2023-02-09,Aetna
+757,1098,Cardiology,MRI Scan,14465,2376,2023-02-13,BlueCross
+758,1547,Emergency,X-Ray,18646,3943,2023-01-17,Medicare
+759,1977,Orthopedics,Blood Test,11740,8992,2023-09-09,Medicaid
+760,1998,Cardiology,Consultation,540,11044,2024-07-11,Medicaid
+761,1095,Oncology,MRI Scan,6327,4622,2023-08-06,Aetna
+762,1663,Cardiology,Physical Therapy,8759,4024,2023-03-27,UnitedHealth
+763,1662,Emergency,X-Ray,17871,12298,2023-01-23,Aetna
+764,1189,Orthopedics,MRI Scan,15349,9371,2023-08-15,BlueCross
+765,1735,Neurology,MRI Scan,16732,2651,2024-02-06,Cigna
+766,1036,Radiology,Blood Test,8304,828,2023-11-24,Cigna
+767,1779,Oncology,Chemotherapy,5874,10021,2023-04-14,UnitedHealth
+768,1368,Orthopedics,Consultation,3024,7978,2024-06-20,Medicaid
+769,1694,Emergency,Physical Therapy,9777,3896,2024-04-17,UnitedHealth
+770,1524,Oncology,Surgery,19363,11822,2024-04-21,Medicaid
+771,1278,Pediatrics,Consultation,10385,3874,2024-07-10,Medicaid
+772,1216,Cardiology,Surgery,1278,4129,2023-01-08,Cigna
+773,1866,Radiology,MRI Scan,1992,2965,2023-09-10,UnitedHealth
+774,1872,Emergency,CT Scan,17544,4569,2024-07-04,Aetna
+775,1797,Pediatrics,Physical Therapy,18232,13172,2023-11-18,Medicaid
+776,1272,Orthopedics,X-Ray,14115,8507,2023-07-20,Medicare
+777,1880,Neurology,CT Scan,12632,5156,2023-08-04,Medicare
+778,1061,Oncology,CT Scan,10678,10395,2023-05-12,Aetna
+779,1595,Cardiology,Consultation,8351,892,2024-02-11,Medicare
+780,1879,Oncology,Physical Therapy,16788,3362,2023-08-24,BlueCross
+781,1728,Radiology,Chemotherapy,7656,1305,2023-10-13,Medicaid
+782,1341,Orthopedics,MRI Scan,2544,14859,2023-02-26,Aetna
+783,1396,Oncology,MRI Scan,7868,3208,2023-12-15,UnitedHealth
+784,1698,Cardiology,MRI Scan,14135,2361,2023-08-25,Medicaid
+785,1018,Orthopedics,MRI Scan,9668,14280,2024-08-05,Aetna
+786,1176,Oncology,Consultation,17611,8545,2024-02-03,Cigna
+787,1611,Neurology,Surgery,11828,14388,2023-06-02,UnitedHealth
+788,1395,Emergency,MRI Scan,13819,13915,2024-04-07,Cigna
+789,1444,Orthopedics,Surgery,842,3899,2024-05-31,Medicaid
+790,1232,Emergency,Surgery,1947,13777,2024-05-07,UnitedHealth
+791,1914,Orthopedics,Chemotherapy,7081,12802,2024-06-14,Medicare
+792,1075,Neurology,MRI Scan,12351,3986,2024-03-06,Aetna
+793,1264,Emergency,Blood Test,6817,9456,2023-10-24,Medicaid
+794,1454,Pediatrics,X-Ray,17410,4400,2023-11-27,BlueCross
+795,1795,Cardiology,CT Scan,10588,14412,2024-08-31,UnitedHealth
+796,1717,Pediatrics,Surgery,13446,2113,2023-10-29,UnitedHealth
+797,1734,Oncology,Physical Therapy,17289,9608,2023-10-01,Medicaid
+798,1383,Neurology,Physical Therapy,15067,5720,2024-04-24,Medicaid
+799,1563,Pediatrics,X-Ray,15368,10793,2023-09-12,Cigna
+800,1850,Orthopedics,Physical Therapy,10265,1972,2023-06-09,Medicare
+801,1505,Oncology,Blood Test,12966,10352,2024-09-02,Cigna
+802,1366,Oncology,Physical Therapy,18730,2980,2023-05-20,Cigna
+803,1143,Pediatrics,CT Scan,18362,14091,2023-07-26,Medicare
+804,1884,Pediatrics,CT Scan,11087,13196,2024-02-03,BlueCross
+805,1068,Neurology,Surgery,1271,7623,2023-09-09,Cigna
+806,1098,Cardiology,MRI Scan,16800,13138,2023-07-16,Cigna
+807,1395,Pediatrics,Chemotherapy,9270,3071,2023-06-20,UnitedHealth
+808,1024,Radiology,Blood Test,11593,13434,2023-05-07,Medicare
+809,1947,Pediatrics,Surgery,14303,860,2024-09-19,Aetna
+810,1890,Emergency,Blood Test,693,6442,2023-12-17,BlueCross
+811,1468,Orthopedics,MRI Scan,2507,11027,2024-08-30,BlueCross
+812,1483,Radiology,Consultation,18069,10721,2023-10-26,Medicare
+813,1564,Radiology,Physical Therapy,19278,12346,2023-04-22,Medicaid
+814,1150,Emergency,Physical Therapy,11690,10842,2023-08-19,Medicaid
+815,1143,Emergency,Chemotherapy,10484,1332,2023-07-23,UnitedHealth
+816,1568,Oncology,MRI Scan,9802,899,2023-03-02,UnitedHealth
+817,1038,Cardiology,Surgery,7929,14734,2023-02-14,Medicare
+818,1108,Orthopedics,Chemotherapy,2761,7670,2023-03-14,UnitedHealth
+819,1692,Neurology,MRI Scan,7216,10430,2024-07-31,BlueCross
+820,1041,Radiology,X-Ray,9421,14862,2023-09-20,BlueCross
+821,1185,Neurology,CT Scan,4878,6497,2023-05-10,Aetna
+822,1934,Pediatrics,Chemotherapy,8315,13039,2023-10-11,Medicaid
+823,1397,Pediatrics,Chemotherapy,14278,8012,2023-04-07,Medicare
+824,1222,Neurology,Surgery,13228,12892,2024-07-22,Cigna
+825,1633,Pediatrics,Blood Test,10832,4757,2023-02-05,Medicaid
+826,1132,Cardiology,X-Ray,10336,2379,2023-08-18,Cigna
+827,1162,Emergency,Surgery,3300,11230,2024-01-16,Aetna
+828,1214,Pediatrics,MRI Scan,8833,9265,2023-08-10,Aetna
+829,1732,Oncology,MRI Scan,5910,8475,2024-07-17,UnitedHealth
+830,1234,Pediatrics,MRI Scan,18339,1622,2023-01-20,Aetna
+831,1842,Orthopedics,Consultation,6308,11067,2023-12-02,Aetna
+832,1657,Cardiology,MRI Scan,7296,3380,2024-05-09,Cigna
+833,1750,Orthopedics,Blood Test,10788,4516,2023-12-21,UnitedHealth
+834,1587,Orthopedics,X-Ray,18209,12367,2024-06-29,Aetna
+835,1008,Oncology,Physical Therapy,18043,6896,2024-05-05,Medicaid
+836,1073,Cardiology,CT Scan,5150,9783,2023-02-02,Aetna
+837,1953,Cardiology,Blood Test,5487,11610,2023-11-24,UnitedHealth
+838,1491,Cardiology,Blood Test,15700,12599,2023-03-22,Medicare
+839,1912,Cardiology,Consultation,5197,814,2023-02-19,UnitedHealth
+840,1252,Cardiology,Physical Therapy,17224,14069,2023-09-27,Cigna
+841,1229,Oncology,Physical Therapy,4328,11363,2024-09-13,Medicare
+842,1518,Pediatrics,CT Scan,18852,11957,2024-04-06,Medicaid
+843,1173,Orthopedics,CT Scan,17587,11968,2023-09-23,BlueCross
+844,1652,Cardiology,Physical Therapy,13105,4770,2023-12-12,UnitedHealth
+845,1167,Radiology,MRI Scan,5982,14401,2023-12-17,Cigna
+846,1169,Pediatrics,Blood Test,18684,470,2023-11-18,Medicaid
+847,1392,Pediatrics,Surgery,5963,12458,2024-05-05,Medicare
+848,1945,Orthopedics,CT Scan,14360,2668,2023-04-07,Medicaid
+849,1794,Oncology,Consultation,5412,14408,2024-01-16,UnitedHealth
+850,1633,Neurology,Consultation,5148,9782,2023-09-06,Aetna
+851,1193,Neurology,CT Scan,1355,11746,2024-04-26,UnitedHealth
+852,1516,Pediatrics,Physical Therapy,3366,12527,2024-07-10,BlueCross
+853,1028,Emergency,X-Ray,12334,14470,2024-03-21,UnitedHealth
+854,1164,Emergency,Surgery,16794,14724,2023-11-22,Medicare
+855,1421,Orthopedics,Surgery,17066,13481,2024-02-06,Medicare
+856,1338,Neurology,CT Scan,3612,14500,2023-08-19,UnitedHealth
+857,1647,Pediatrics,MRI Scan,4992,3807,2023-10-21,Medicare
+858,1495,Oncology,X-Ray,15614,10975,2023-01-13,Aetna
+859,1364,Neurology,Surgery,2017,12465,2023-06-23,Medicaid
+860,1832,Pediatrics,CT Scan,16518,3275,2023-07-11,UnitedHealth
+861,1341,Pediatrics,Consultation,18240,12298,2023-02-11,Aetna
+862,1499,Cardiology,Surgery,11931,489,2024-01-25,Medicaid
+863,1656,Oncology,Chemotherapy,8710,8320,2023-10-26,Medicaid
+864,1510,Cardiology,X-Ray,12095,10872,2023-04-06,Aetna
+865,1326,Orthopedics,X-Ray,13371,6814,2023-11-02,Cigna
+866,1216,Cardiology,Chemotherapy,13243,3452,2023-03-06,UnitedHealth
+867,1300,Radiology,Blood Test,9824,7615,2024-05-19,Medicaid
+868,1131,Cardiology,Consultation,12031,6971,2024-03-12,Medicaid
+869,1803,Radiology,Chemotherapy,7088,478,2023-05-06,Medicare
+870,1069,Neurology,Physical Therapy,3811,11316,2023-12-10,Medicaid
+871,1251,Emergency,Physical Therapy,1487,780,2024-03-17,Aetna
+872,1414,Pediatrics,CT Scan,3821,5158,2024-02-08,Medicaid
+873,1786,Radiology,X-Ray,16312,8645,2024-01-02,Cigna
+874,1444,Oncology,Blood Test,5115,4476,2024-05-21,UnitedHealth
+875,1875,Cardiology,Blood Test,16012,8197,2024-04-13,UnitedHealth
+876,1181,Radiology,Surgery,13646,4976,2023-04-03,Medicaid
+877,1166,Oncology,Surgery,14154,1024,2023-07-15,BlueCross
+878,1090,Emergency,Chemotherapy,3552,4032,2023-12-23,BlueCross
+879,1713,Emergency,Blood Test,1226,9091,2023-03-27,Aetna
+880,1857,Cardiology,Chemotherapy,4260,5645,2024-06-20,BlueCross
+881,1530,Orthopedics,Consultation,2375,1580,2024-06-10,Aetna
+882,1038,Cardiology,Chemotherapy,14469,12288,2023-03-14,Medicare
+883,1125,Neurology,Surgery,4533,10065,2023-10-22,Aetna
+884,1450,Radiology,X-Ray,5943,11119,2023-12-22,BlueCross
+885,1172,Pediatrics,Chemotherapy,17873,6734,2024-07-05,Medicaid
+886,1652,Orthopedics,MRI Scan,4244,14126,2023-11-03,Medicare
+887,1753,Cardiology,X-Ray,17477,14445,2023-11-13,BlueCross
+888,1219,Oncology,Blood Test,2274,3356,2023-12-30,Aetna
+889,1637,Orthopedics,Blood Test,11151,11780,2023-05-26,Cigna
+890,1057,Radiology,Chemotherapy,1435,4507,2024-01-09,UnitedHealth
+891,1659,Orthopedics,X-Ray,13895,5834,2023-06-23,BlueCross
+892,1475,Radiology,Surgery,4308,8775,2024-04-09,Aetna
+893,1455,Cardiology,Surgery,17215,6010,2023-02-12,Medicare
+894,1828,Radiology,Physical Therapy,12141,8733,2023-08-18,BlueCross
+895,1894,Orthopedics,Blood Test,19586,6134,2023-08-22,BlueCross
+896,1360,Oncology,CT Scan,14876,10379,2023-01-21,UnitedHealth
+897,1934,Emergency,Physical Therapy,6389,12451,2023-01-28,Aetna
+898,1000,Orthopedics,Surgery,5554,13331,2024-07-30,Cigna
+899,1386,Radiology,X-Ray,4368,3309,2024-04-08,Medicare
+900,1972,Emergency,Consultation,17085,4282,2023-08-08,Aetna
+901,1347,Radiology,Surgery,19381,14022,2024-09-11,Medicare
+902,1189,Oncology,X-Ray,2342,12907,2024-06-09,BlueCross
+903,1504,Radiology,Physical Therapy,10558,11190,2023-09-05,UnitedHealth
+904,1190,Cardiology,Blood Test,9601,3440,2023-05-16,UnitedHealth
+905,1507,Pediatrics,Surgery,12997,10380,2023-08-08,Medicaid
+906,1368,Orthopedics,Chemotherapy,5158,6228,2023-02-21,Cigna
+907,1408,Pediatrics,X-Ray,11881,11806,2024-05-06,UnitedHealth
+908,1823,Radiology,Blood Test,8044,2049,2023-08-24,BlueCross
+909,1928,Oncology,Consultation,8218,8697,2023-02-21,Cigna
+910,1933,Orthopedics,Consultation,14351,12005,2024-02-22,Aetna
+911,1116,Radiology,CT Scan,17654,2949,2023-06-01,UnitedHealth
+912,1133,Emergency,X-Ray,12277,13356,2024-02-08,Cigna
+913,1057,Neurology,Physical Therapy,2128,6880,2023-08-08,BlueCross
+914,1555,Radiology,CT Scan,886,9527,2024-08-02,Medicaid
+915,1684,Pediatrics,CT Scan,6531,13922,2023-07-24,Medicare
+916,1671,Orthopedics,MRI Scan,6939,405,2024-03-25,Medicare
+917,1172,Pediatrics,Surgery,13892,7552,2024-05-19,BlueCross
+918,1828,Orthopedics,X-Ray,19350,4791,2023-02-26,BlueCross
+919,1814,Radiology,CT Scan,2782,3650,2023-04-09,Medicare
+920,1148,Cardiology,MRI Scan,2356,7414,2023-11-19,Medicaid
+921,1079,Emergency,Physical Therapy,16170,14397,2023-11-08,Cigna
+922,1885,Radiology,Blood Test,2498,4011,2023-02-09,Medicare
+923,1212,Pediatrics,Chemotherapy,5976,12014,2023-12-10,BlueCross
+924,1202,Neurology,Chemotherapy,9928,11991,2024-07-14,UnitedHealth
+925,1763,Neurology,X-Ray,5169,10943,2024-04-21,Aetna
+926,1228,Oncology,CT Scan,12836,5341,2024-01-26,Medicaid
+927,1675,Orthopedics,Chemotherapy,9842,12700,2024-02-27,Medicaid
+928,1226,Pediatrics,Surgery,7564,8701,2024-08-30,UnitedHealth
+929,1658,Oncology,Chemotherapy,7946,2908,2023-01-24,UnitedHealth
+930,1531,Pediatrics,Chemotherapy,18315,2191,2024-08-03,BlueCross
+931,1440,Orthopedics,Chemotherapy,6124,8663,2023-10-19,Medicare
+932,1401,Radiology,Consultation,7961,12034,2023-06-01,Cigna
+933,1046,Radiology,MRI Scan,2319,12478,2024-01-14,Medicaid
+934,1232,Neurology,CT Scan,11016,10214,2024-01-07,Medicaid
+935,1304,Radiology,Surgery,14249,3473,2023-01-06,UnitedHealth
+936,1525,Radiology,CT Scan,18014,14567,2023-05-26,Medicare
+937,1142,Cardiology,Consultation,3158,4738,2023-04-25,Medicaid
+938,1414,Neurology,X-Ray,4000,14697,2023-05-14,Cigna
+939,1512,Oncology,X-Ray,2620,12741,2024-05-26,UnitedHealth
+940,1372,Emergency,X-Ray,4520,8912,2023-12-03,Cigna
+941,1565,Cardiology,Physical Therapy,10713,9368,2023-03-31,Medicare
+942,1885,Oncology,Chemotherapy,3759,3922,2023-06-21,Medicaid
+943,1258,Orthopedics,Physical Therapy,10581,3751,2024-07-20,Aetna
+944,1655,Cardiology,MRI Scan,2323,12497,2023-01-08,Medicaid
+945,1470,Oncology,X-Ray,18358,11165,2023-10-08,Medicare
+946,1952,Orthopedics,Consultation,19126,10944,2023-10-25,Medicaid
+947,1970,Neurology,Surgery,13967,3032,2023-03-09,Medicaid
+948,1011,Emergency,CT Scan,7490,12299,2023-11-23,BlueCross
+949,1329,Orthopedics,Chemotherapy,3634,5879,2023-10-16,Medicaid
+950,1735,Radiology,Blood Test,18954,6779,2024-02-05,Medicaid
+951,1783,Pediatrics,Surgery,17243,13622,2023-08-26,Cigna
+952,1967,Orthopedics,Chemotherapy,15934,352,2024-06-29,Aetna
+953,1357,Orthopedics,Physical Therapy,15507,5954,2023-11-20,Cigna
+954,1971,Emergency,Physical Therapy,10733,11356,2024-02-06,Cigna
+955,1407,Pediatrics,Surgery,16878,11308,2023-08-11,UnitedHealth
+956,1667,Radiology,Physical Therapy,1641,3000,2023-11-01,BlueCross
+957,1372,Oncology,X-Ray,18519,14344,2024-02-03,Cigna
+958,1007,Oncology,MRI Scan,10635,5510,2023-05-11,Medicare
+959,1121,Orthopedics,CT Scan,13466,10144,2023-05-06,Medicare
+960,1347,Pediatrics,MRI Scan,3861,2810,2023-05-16,Medicaid
+961,1675,Pediatrics,Chemotherapy,8335,12267,2024-07-22,UnitedHealth
+962,1089,Radiology,CT Scan,11672,1304,2024-02-07,BlueCross
+963,1647,Emergency,Consultation,16890,10928,2024-08-10,BlueCross
+964,1697,Neurology,CT Scan,3767,13382,2023-06-19,Medicaid
+965,1315,Oncology,MRI Scan,7064,13599,2024-01-27,Medicare
+966,1177,Emergency,Surgery,19490,7561,2024-06-27,Aetna
+967,1539,Cardiology,CT Scan,11911,4399,2023-12-16,UnitedHealth
+968,1731,Oncology,Consultation,6406,4054,2023-10-14,Medicaid
+969,1868,Emergency,Consultation,16528,7463,2024-01-21,UnitedHealth
+970,1040,Oncology,Consultation,8111,11886,2023-08-13,Medicare
+971,1739,Neurology,MRI Scan,17797,2114,2024-03-17,Medicare
+972,1703,Cardiology,CT Scan,2511,7565,2024-09-11,Aetna
+973,1922,Neurology,Blood Test,18326,3272,2024-02-29,Aetna
+974,1501,Radiology,Surgery,11746,9398,2023-06-17,BlueCross
+975,1958,Cardiology,X-Ray,14290,606,2023-01-31,UnitedHealth
+976,1144,Orthopedics,CT Scan,12238,13889,2023-05-12,UnitedHealth
+977,1200,Emergency,Consultation,15230,366,2023-05-03,Medicare
+978,1928,Cardiology,Blood Test,11620,708,2023-11-27,BlueCross
+979,1723,Radiology,X-Ray,18713,1861,2023-04-03,Medicaid
+980,1460,Radiology,X-Ray,9267,14848,2023-10-31,UnitedHealth
+981,1731,Neurology,Chemotherapy,14203,3864,2023-01-07,BlueCross
+982,1751,Oncology,CT Scan,1429,3689,2024-02-09,BlueCross
+983,1924,Cardiology,MRI Scan,12451,13250,2023-02-12,Medicare
+984,1908,Emergency,CT Scan,16345,880,2023-01-23,BlueCross
+985,1557,Cardiology,Blood Test,17938,2724,2024-03-16,Aetna
+986,1546,Pediatrics,X-Ray,16247,2320,2024-04-18,Aetna
+987,1252,Oncology,CT Scan,6244,5460,2023-03-30,Cigna
+988,1389,Emergency,MRI Scan,18784,13069,2023-10-17,Medicare
+989,1593,Emergency,Chemotherapy,10149,4557,2024-01-30,Medicaid
+990,1882,Orthopedics,CT Scan,7480,1563,2024-06-05,Cigna
+991,1255,Neurology,Surgery,7569,9723,2024-05-28,Aetna
+992,1708,Orthopedics,Chemotherapy,10091,2492,2024-01-27,Cigna
+993,1814,Emergency,MRI Scan,942,1738,2024-04-27,Medicare
+994,1920,Oncology,Blood Test,5152,3608,2023-01-08,Medicare
+995,1449,Cardiology,X-Ray,9870,7942,2024-01-31,BlueCross
+996,1009,Cardiology,CT Scan,8097,8952,2023-01-20,UnitedHealth
+997,1823,Oncology,MRI Scan,14825,9491,2023-11-07,BlueCross
+998,1797,Emergency,Chemotherapy,4958,2103,2023-10-07,Medicare
+999,1241,Radiology,Surgery,7091,374,2023-03-01,Aetna
+1000,1250,Cardiology,MRI Scan,16846,10548,2024-08-07,Medicaid
