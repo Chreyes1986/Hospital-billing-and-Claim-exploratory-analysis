@@ -44,20 +44,4 @@ During the analysis, I discovered that:
 - Further analysis could explore the **reasons behind unclaimed procedures**, such as insurance denials, patient inaction, or administrative delays.
 - Integrating claim status dashboards could help improve claim completion rates.
 
----
 
-## ⚙️ How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/hospital-claims-analysis.git
-   ```
-2. Import the dataset into your MySQL environment.  
-3. Run the SQL scripts in the `queries/` folder to reproduce the analysis.  
-4. Review output tables and visual summaries for claim completion insights.
-
----
-
-## 🧾 Author
-**Your Name**  
-📧 your.email@example.com  
-💼 [LinkedIn Profile or Portfolio Link]
